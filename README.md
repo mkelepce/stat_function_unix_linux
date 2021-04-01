@@ -2,4 +2,7 @@
 
 Unix Linux Sistem Programlama dersi stat fonksiyonu kullanımı
 <br>
-![image](https://user-images.githubusercontent.com/10780392/113336421-10d3e400-932f-11eb-9ff9-bec470bd4709.png)
+./stat k.xml <br>
+
+![image](https://user-images.githubusercontent.com/10780392/113336482-26e1a480-932f-11eb-9528-d4952c9c9dac.png)
+
